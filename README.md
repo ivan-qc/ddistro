@@ -1,5 +1,6 @@
 # ddistro (v0.1.0-beta)
-A user-friendly Bash wrapper around the `dd` command-line utility, designed to make writing GNU/Linux ISO distributions to USB drives safe and easy.
+A user-friendly Bash wrapper for the `dd` command-line tool, designed to simplify and streamline writing GNU/Linux ISO files to USB drives. 
+It makes the process quicker, safer, and more accessible, especially for newcomers.
 
 `ddistro` requires the following commands to be installed:
 
