@@ -1,7 +1,9 @@
 # ddistro
 A user-friendly Bash wrapper around the dd command, designed to make writing GNU/Linux ISO distributions to USB drives safe and easy. 
 
-  Usage
+# Usage
+    ./ddistro.sh
+
 # Features
 
 USB Drive Detection: Automatically detects connected USB drives and displays their details (device name, size, mount point, and model).
