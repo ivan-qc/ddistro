@@ -43,7 +43,7 @@ Data Overwrite Warning: Provides a clear warning before overwriting data on the 
     WARNING: This will overwrite all data on /dev/sdb with the ISO file 'archlinux-x86_64.iso'.
     Are you sure you want to proceed? (y/N): 
 
-Data Write: The progress is updated in real-time as data is written..
+Data Write: The progress is updated in real-time as data is written.
 
     Writing 'S15Pup64-22.12-241201.iso' to '/dev/sdb'...
     322961408 bytes (323 MB, 308 MiB) copied, 3 s, 107 MB/s434110464 bytes (434 MB, 414 MiB) copied, 3.46808 s, 125 MB/s
